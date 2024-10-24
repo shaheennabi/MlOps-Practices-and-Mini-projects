@@ -1,0 +1,2 @@
+pandas
+mlflow==2.2.2
